@@ -32,11 +32,11 @@ def mr_x():
     os.system("clear")
     print ("\033[1;37m[\033[1;30m1\033[1;37m] \033[36m Subrek Yt \033[1;37mMR_DARK \033[36m cuk :v")
     time.sleep(1)
-    os.system("xdg-open https://www.youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A")
+    os.system("-")
     time.sleep(3)
     print ("\033[1;37m[\033[1;30m2\033[1;37m] \033[36m Join \033[1;37mDark Club \033[36m cuk :v")
     time.sleep(1)
-    os.system("xdg-open https://chat.whatsapp.com/C13bgsiasmWLwLFwFBFu0A")
+    os.system("-")
     time.sleep(3)
     os.system("clear")
 # -------{ bang give alok bang :V }-------- #
